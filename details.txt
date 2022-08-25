@@ -1,0 +1,5 @@
+name = sridhar
+age = 26
+location = Hyderabad
+Blood group = A+
+Graduation = B.Tech
