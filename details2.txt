@@ -1,0 +1,4 @@
+name = srikanth
+age = 23
+location = vishakapatnam
+blood group = A+
